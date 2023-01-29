@@ -179,6 +179,10 @@ footer a {
   aspect-ratio: 1/1;
 }
 
+.instagram-embed {
+  margin: 30px 0;
+}
+
 .card {
   background-color: white;
   margin: 30px 0;
