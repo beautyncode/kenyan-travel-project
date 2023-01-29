@@ -1,11 +1,11 @@
 body {
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   background-color: #272044;
 }
 
 section {
   max-width: 1200px;
-  margin: 0, auto;
+  margin: 0 auto;
   padding: 100px 0;
 }
 
@@ -128,7 +128,7 @@ footer a {
 
 .container {
   max-width: 1400px;
-  margin: 0, auto;
+  margin: 0 auto;
 }
 
 .grid {
